@@ -1,4 +1,4 @@
-# MQTTMotionSensor
+# MQTTGestureSensor
 A microcontroller Raspberry Pi Pico 2W with a gesture sensor PAJ7620U2 switches light by sending MQTT commands to the central home management system FHEM. The current status is shown by an LED.
 The status shall be:
 1. Gesture UP - Light is switched on and stays on (green)
